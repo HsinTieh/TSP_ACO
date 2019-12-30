@@ -8,12 +8,12 @@
   >  **Shortest Path Length : 428.8717563920339**<br>
 
 
-> ![GITHUB](ant.png)
->               上圖為 _螞蟻數量與收斂速度關係圖_
+> ![GITHUB](ant.png)<br>
+> 上圖為 _螞蟻數量與收斂速度關係圖_<br>
 
->![GITHUB](beta.png)
->               上圖為 _探討beta與收斂速度的關係_
+>![GITHUB](beta.png)<br>
+>  上圖為 _探討beta與收斂速度的關係_<br>
 
 
->![GITHUB](alpha.png)
->               上圖為 _探討alpha與收斂速度的關係_
+>![GITHUB](alpha.png)<br>
+>  上圖為 _探討alpha與收斂速度的關係_<br>
